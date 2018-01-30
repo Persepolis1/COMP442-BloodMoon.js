@@ -2,7 +2,6 @@ const LineByLineReader = require('line-by-line');
 const lr = new LineByLineReader('input.txt');
 const { TRANSITION_TABLE } = require('./constants/transitionTable');
 let lineNumber = 0;
-
 lr.on('line', (line) =>{
   lineNumber++;
   console.log(getAllTokens(line));

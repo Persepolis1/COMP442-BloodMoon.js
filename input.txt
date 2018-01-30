@@ -1,6 +1,7 @@
 <
 <=
 <>
+< >
 >
 >=
 :
@@ -35,3 +36,45 @@
 []
 [+]
 {*}
+bcd
+{bcd}
+{ bcd }
+and
+and and and
+andand
+and[x]
+and [x]
+not and notnot
+not[x]
+not [x]
+no<t
+not<
+notor not or
+ora
+or_int
+and int_
+and{int_}
+then and thenorthen
+class
+class{
+class {
+classy
+else
+elsec
+program
+put
+putprogram
+programput
+proput
+return retun
+retur
+int a
+if(x>a)
+if (x<=a)
+int inta
+float
+int float
+for float
+flor
+floats
+for{}
