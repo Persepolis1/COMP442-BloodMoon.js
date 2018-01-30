@@ -1,0 +1,79 @@
+"Every [ ] is one line"
+[
+  {
+    "Token": "PROGRAM",
+    "position": 6,
+    "value": "program"
+  },
+  {
+    "Token": "OPEN_BRACE",
+    "position": 7,
+    "value": "{"
+  }
+]
+[
+  {
+    "Token": "INT",
+    "position": 6,
+    "value": "int"
+  },
+  {
+    "Token": "ID",
+    "position": 8,
+    "value": "a"
+  },
+  {
+    "Token": "EQUAL",
+    "position": 10,
+    "value": "="
+  },
+  {
+    "Token": "ID",
+    "position": 12,
+    "value": "x"
+  },
+  {
+    "Token": "SEMI_COLON",
+    "position": 13,
+    "value": ";"
+  }
+]
+[
+  {
+    "Token": "ID",
+    "position": 4,
+    "value": "x"
+  },
+  {
+    "Token": "EQUAL",
+    "position": 6,
+    "value": "="
+  },
+  {
+    "Token": "ID",
+    "position": 8,
+    "value": "x"
+  },
+  {
+    "Token": "PLUS",
+    "position": 10,
+    "value": "+"
+  },
+  {
+    "Token": "FLOAT_LITERAL",
+    "position": 14,
+    "value": "1.2"
+  },
+  {
+    "Token": "SEMI_COLON",
+    "position": 15,
+    "value": ";"
+  }
+]
+[
+  {
+    "Token": "CLOSE_BRACE",
+    "position": 0,
+    "value": "}"
+  }
+]
