@@ -7,9 +7,9 @@ let lineNumber = 0;
 let currentCharacter = -1;
 
 //SET TO TRUE IF UNIT TESTING
-const unitTest = true;
+const unitTest = false;
 //empty the file
-jsonfile.writeFile(outputFile,'Every [ ] is one line', function(err) {})
+jsonfile.writeFile(outputFile,'Every [ ] is one line', function(err) {});
 lr.on('line', (line) =>{
   lineNumber++;
   // console.log(getAllTokens(line));
